@@ -1,0 +1,34 @@
+[
+    {
+        "frameshape_id":1,
+        "frameshape_name":"Rectangle"
+    },
+    {
+        "frameshape_id":2,
+        "frameshape_name":"Square"
+    },
+    {
+        "frameshape_id":3,
+        "frameshape_name":"Round"
+    },
+    {
+        "frameshape_id":4,
+        "frameshape_name":"Cat-Eye"
+    },
+    {
+        "frameshape_id":5,
+        "frameshape_name":"Geometric"
+    },
+    {
+        "frameshape_id":6,
+        "frameshape_name":"Aviator"
+    },
+    {
+        "frameshape_id":7,
+        "frameshape_name":"Wayfarer"
+    },
+    {
+        "frameshape_id":8,
+        "frameshape_name":"Hexagon"
+    }
+]

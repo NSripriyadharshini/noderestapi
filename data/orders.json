@@ -1,0 +1,46 @@
+db.orders.insert([
+    {
+        "order_id":1,
+        "name": "Sri",
+        "email": "sri@gmail.com",
+        "address": "23,RZ road,Bangalore",
+        "phone": 7687686861,
+        "cost":3397,
+        "menuItem": [
+            9,18,46
+        ]
+    },
+    {
+        "order_id":2,
+        "name": "Priya",
+        "email": "priya@gmail.com",
+        "address": "78A,Crosscut road,Coimbatore",
+        "phone": 7682768686,
+        "cost":5199,
+        "menuItem": [
+            64,89
+        ]
+    },
+    {
+        "order_id":3,
+        "name": "Dharshu",
+        "email": "dharshu@gmail.com",
+        "address": "11/5,ABC nagar,Chennai",
+        "phone": 7687368686,
+        "cost": 3897,
+        "menuItem": [
+           25,39,58
+        ]
+    },
+    {
+        "order_id":4,
+        "name": "Malu",
+        "email": "malu@gmail.com",
+        "address": "25,XYA nagar,Indore",
+        "phone": 9527876733,
+        "cost":5899,
+        "menuItem": [
+            12,79,90
+        ]
+    }
+])
